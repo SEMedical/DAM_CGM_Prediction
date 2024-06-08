@@ -1,0 +1,9 @@
+﻿,CGM (mg / dl),CBG (mg / dl),Blood Ketone (mmol / L),Insulin dose - s.c.,"CSII - bolus insulin (Novolin R, IU)","CSII - basal insulin (Novolin R, IU / H)",Insulin dose - i.v.
+count,1224.0,2.0,0.0,0.0,0.0,0.0,0.0
+mean,106.73529411764706,120.6,,,,,
+std,24.636078869990747,2.545584412271567,,,,,
+min,61.2,118.8,,,,,
+25%,90.0,119.69999999999999,,,,,
+50%,99.0,120.6,,,,,
+75%,117.0,121.5,,,,,
+max,208.8,122.39999999999999,,,,,
